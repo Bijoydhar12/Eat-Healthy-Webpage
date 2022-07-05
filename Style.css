@@ -46,4 +46,54 @@ h1{
     padding-right: 30%;
 
 }
+.Small-Image{
+    display: flex;
+    box-shadow: 10px 10px 40px gray;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+margin: 100px;
+padding: 50px;
+    border-radius: 20px;
+
+} 
+.Small-Image img{
+    width: 100%;
+}
+
+/* }
+.Small-Text1{
+    padding-left: 100px;
+}
+.Small-Text2{
+    padding-left: 500px;
+    padding-right: 500px;
+}
+.Small-Text3{
+    padding-right: 100px; */
+
+.new-container {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 240px;
+    width: 80%;
+    margin: 0 auto;
+    
+    box-shadow: 10px 10px 40px gray;
+    /* padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50; */
+
+}
+.Black-Bar{
+    height: 200px;
+    width: 70%;
+    background-color: black;
+    color: white;
+    margin-left: 13%;
+    text-align: center;
+   padding-top: 100px;
+
+}
 
