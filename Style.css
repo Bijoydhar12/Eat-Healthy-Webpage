@@ -1,0 +1,49 @@
+.flexible-container {
+    display: flex;
+    margin-bottom: 100px;
+
+}
+.First{
+    padding-left: 5%;
+    padding-right: 10%;
+   
+}
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+h1{
+    color: gray;
+
+}
+.Name-Color{
+    color: tomato;
+}
+.Button-Design{
+    color: aliceblue;
+    text-decoration: none;
+    padding: 10px 20px;
+    background-image: linear-gradient(#fc4a1a,#FBA24F);
+    border-radius: 20px;
+   
+   
+}
+.Img-Design{
+    padding-right: 10%;
+}
+.About-Me{
+    margin-top: 100px;
+    width: 50%;
+    padding-left: 5%;
+    padding-right: 10%;
+
+}
+.Second-Bar{
+    background-image: url(7.png);
+}
+.Heading-per{
+    text-align: center ;
+    padding-left: 30%;
+    padding-right: 30%;
+
+}
+
